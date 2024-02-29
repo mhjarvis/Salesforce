@@ -49,5 +49,7 @@ Standard profiles should be used as a template, as they are restrictive with fix
 If you need additional access (e.g. the ability for a profile to delete cases, or have certain access, use permissions sets over creating new profiles). Permission sets only expand user permissions and do not affect profile permissions.
 
 1. Update `Login Hours` if applicable
-2. `User Management Settings`
+2. Update `Login IP Ranges` if applicable
+3. Add password policies if different than default
+4. `User Management Settings`
    a. Setup `Enhanced User Profile` to further customize apps/settings for that profile
